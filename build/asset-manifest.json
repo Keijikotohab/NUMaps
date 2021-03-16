@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/NUMaps/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/NUMaps/static/js/main.78183279.chunk.js",
+    "main.js.map": "/NUMaps/static/js/main.78183279.chunk.js.map",
+    "runtime-main.js": "/NUMaps/static/js/runtime-main.e9732668.js",
+    "runtime-main.js.map": "/NUMaps/static/js/runtime-main.e9732668.js.map",
+    "static/js/2.7bd5ce58.chunk.js": "/NUMaps/static/js/2.7bd5ce58.chunk.js",
+    "static/js/2.7bd5ce58.chunk.js.map": "/NUMaps/static/js/2.7bd5ce58.chunk.js.map",
+    "static/js/3.7dfa07b5.chunk.js": "/NUMaps/static/js/3.7dfa07b5.chunk.js",
+    "static/js/3.7dfa07b5.chunk.js.map": "/NUMaps/static/js/3.7dfa07b5.chunk.js.map",
+    "index.html": "/NUMaps/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/NUMaps/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.7bd5ce58.chunk.js.LICENSE.txt": "/NUMaps/static/js/2.7bd5ce58.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/NUMaps/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9732668.js",
+    "static/js/2.7bd5ce58.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.78183279.chunk.js"
+  ]
+}
